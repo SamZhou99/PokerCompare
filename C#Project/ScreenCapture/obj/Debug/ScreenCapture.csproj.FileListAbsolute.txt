@@ -1,0 +1,8 @@
+D:\web\rootwww\flash\PokerCompare\C#Project\ScreenCapture\bin\Debug\TestSocket.exe
+D:\web\rootwww\flash\PokerCompare\C#Project\ScreenCapture\bin\Debug\TestSocket.pdb
+D:\web\rootwww\flash\PokerCompare\C#Project\ScreenCapture\bin\Debug\Newtonsoft.Json.dll
+D:\web\rootwww\flash\PokerCompare\C#Project\ScreenCapture\obj\Debug\ScreenCapture.csprojResolveAssemblyReference.cache
+D:\web\rootwww\flash\PokerCompare\C#Project\ScreenCapture\obj\Debug\TestSocket.MainForm.resources
+D:\web\rootwww\flash\PokerCompare\C#Project\ScreenCapture\obj\Debug\ScreenCapture.csproj.GenerateResource.Cache
+D:\web\rootwww\flash\PokerCompare\C#Project\ScreenCapture\obj\Debug\TestSocket.exe
+D:\web\rootwww\flash\PokerCompare\C#Project\ScreenCapture\obj\Debug\TestSocket.pdb

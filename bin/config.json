@@ -1,0 +1,150 @@
+{
+	"ConfigExe": {
+			"Image1":{
+				"x": 194,
+				"y": 132,
+				"width": 480,
+				"height": 360
+			},
+			"Image2":{
+				"x": 946,
+				"y": 150,
+				"width": 480,
+				"height": 20
+			}
+		},
+	"ConfigAir":{
+			"SocketServer":{
+				"IP":"127.0.0.1",
+				"Port":8887
+			},
+			"WebSocketServer":{
+				"Port": 8886
+			},
+			"ImgSplit":{
+				"CountX": 50,
+				"CountY": 50
+			},
+			"Type":{
+					"Path" : "../assets/ag/type/",
+					"Data" : [
+							{"name":"♠", "color":"b"},
+							{"name":"♥", "color":"r"},
+							{"name":"♣", "color":"b"},
+							{"name":"♦", "color":"r"}
+						]
+				},
+			"Template":{
+				"PicNum":{
+					"Path": "../assets/ag/en_num/",
+					"Data": [
+							{"name":"1"},
+							{"name":"2"},
+							{"name":"3"},
+							{"name":"4"},
+							{"name":"5"},
+							{"name":"6"},
+							{"name":"7"},
+							{"name":"8"},
+							{"name":"9"},
+							{"name":"0"}
+						]
+					},
+				"PicEn":{
+					"Path": "./assets/ag/en_num/",
+					"Data": [
+							{"name":"A"},
+							{"name":"B"},
+							{"name":"C"},
+							{"name":"D"},
+							{"name":"E"},
+							{"name":"F"},
+							{"name":"G"},
+							
+							{"name":"H"},
+							{"name":"I"},
+							{"name":"J"},
+							{"name":"K"},
+							{"name":"L"},
+							{"name":"M"},
+							{"name":"N"},
+							
+							{"name":"O"},
+							{"name":"P"},
+							{"name":"Q"},
+							{"name":"R"},
+							{"name":"S"},
+							{"name":"T"},
+							
+							{"name":"U"},
+							{"name":"V"},
+							{"name":"W"},
+							{"name":"X"},
+							{"name":"Y"},
+							{"name":"Z"}
+						]
+					},
+				"PicPk":{
+					"Path": "./assets/ag/pk/",
+					"Data": [
+							{"name":"a1", "label":"♠A", "color":"b"},
+							{"name":"a2", "label":"♠2", "color":"b"},
+							{"name":"a3", "label":"♠3", "color":"b"},
+							{"name":"a4", "label":"♠4", "color":"b"},
+							{"name":"a5", "label":"♠5", "color":"b"},
+							{"name":"a6", "label":"♠6", "color":"b"},
+							{"name":"a7", "label":"♠7", "color":"b"},
+							{"name":"a8", "label":"♠8", "color":"b"},
+							{"name":"a9", "label":"♠9", "color":"b"},
+							{"name":"a10", "label":"♠10", "color":"b"},
+							{"name":"a11", "label":"♠J", "color":"bf"},
+							{"name":"a12", "label":"♠Q", "color":"bf"},
+							{"name":"a13", "label":"♠K", "color":"bf"},
+							
+							{"name":"b1", "label":"♥A", "color":"r"},
+							{"name":"b2", "label":"♥2", "color":"r"},
+							{"name":"b3", "label":"♥3", "color":"r"},
+							{"name":"b4", "label":"♥4", "color":"r"},
+							{"name":"b5", "label":"♥5", "color":"r"},
+							{"name":"b6", "label":"♥6", "color":"r"},
+							{"name":"b7", "label":"♥7", "color":"r"},
+							{"name":"b8", "label":"♥8", "color":"r"},
+							{"name":"b9", "label":"♥9", "color":"r"},
+							{"name":"b10", "label":"♥10", "color":"r"},
+							{"name":"b11", "label":"♥J", "color":"rf"},
+							{"name":"b12", "label":"♥Q", "color":"rf"},
+							{"name":"b13", "label":"♥K", "color":"rf"},
+							
+							{"name":"c1", "label":"♣A", "color":"b"},
+							{"name":"c2", "label":"♣2", "color":"b"},
+							{"name":"c3", "label":"♣3", "color":"b"},
+							{"name":"c4", "label":"♣4", "color":"b"},
+							{"name":"c5", "label":"♣5", "color":"b"},
+							{"name":"c6", "label":"♣6", "color":"b"},
+							{"name":"c7", "label":"♣7", "color":"b"},
+							{"name":"c8", "label":"♣8", "color":"b"},
+							{"name":"c9", "label":"♣9", "color":"b"},
+							{"name":"c10", "label":"♣10", "color":"b"},
+							{"name":"c11", "label":"♣J", "color":"bf"},
+							{"name":"c12", "label":"♣Q", "color":"bf"},
+							{"name":"c13", "label":"♣K", "color":"bf"},
+							
+							{"name":"d1", "label":"♦A", "color":"r"},
+							{"name":"d2", "label":"♦2", "color":"r"},
+							{"name":"d3", "label":"♦3", "color":"r"},
+							{"name":"d4", "label":"♦4", "color":"r"},
+							{"name":"d5", "label":"♦5", "color":"r"},
+							{"name":"d6", "label":"♦6", "color":"r"},
+							{"name":"d7", "label":"♦7", "color":"r"},
+							{"name":"d8", "label":"♦8", "color":"r"},
+							{"name":"d9", "label":"♦9", "color":"r"},
+							{"name":"d10", "label":"♦10", "color":"r"},
+							{"name":"d11", "label":"♦J", "color":"rf"},
+							{"name":"d12", "label":"♦Q", "color":"rf"},
+							{"name":"d13", "label":"♦K", "color":"rf"}
+						]
+					}
+			}
+		}
+	
+}

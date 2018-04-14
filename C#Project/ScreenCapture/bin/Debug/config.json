@@ -1,0 +1,71 @@
+﻿{
+	"ws":{
+			"port": 1235
+		},
+	"split":{
+			"x_count": 50,
+			"y_count": 50
+		},
+	"type":["♠","♥","♣","♦"],
+	"load":{
+		"path": "./assets/ag/",
+		"pic":[
+			{"name":"a1", "color":"b"},
+			{"name":"a2", "color":"b"},
+			{"name":"a3", "color":"b"},
+			{"name":"a4", "color":"b"},
+			{"name":"a5", "color":"b"},
+			{"name":"a6", "color":"b"},
+			{"name":"a7", "color":"b"},
+			{"name":"a8", "color":"b"},
+			{"name":"a9", "color":"b"},
+			{"name":"a10", "color":"b"},
+			{"name":"a11", "color":"bf"},
+			{"name":"a12", "color":"bf"},
+			{"name":"a13", "color":"bf"},
+			
+			{"name":"b1", "color":"r"},
+			{"name":"b2", "color":"r"},
+			{"name":"b3", "color":"r"},
+			{"name":"b4", "color":"r"},
+			{"name":"b5", "color":"r"},
+			{"name":"b6", "color":"r"},
+			{"name":"b7", "color":"r"},
+			{"name":"b8", "color":"r"},
+			{"name":"b9", "color":"r"},
+			{"name":"b10", "color":"r"},
+			{"name":"b11", "color":"rf"},
+			{"name":"b12", "color":"rf"},
+			{"name":"b13", "color":"rf"},
+			
+			{"name":"c1", "color":"b"},
+			{"name":"c2", "color":"b"},
+			{"name":"c3", "color":"b"},
+			{"name":"c4", "color":"b"},
+			{"name":"c5", "color":"b"},
+			{"name":"c6", "color":"b"},
+			{"name":"c7", "color":"b"},
+			{"name":"c8", "color":"b"},
+			{"name":"c9", "color":"b"},
+			{"name":"c10", "color":"b"},
+			{"name":"c11", "color":"bf"},
+			{"name":"c12", "color":"bf"},
+			{"name":"c13", "color":"bf"},
+			
+			{"name":"d1", "color":"r"},
+			{"name":"d2", "color":"r"},
+			{"name":"d3", "color":"r"},
+			{"name":"d4", "color":"r"},
+			{"name":"d5", "color":"r"},
+			{"name":"d6", "color":"r"},
+			{"name":"d7", "color":"r"},
+			{"name":"d8", "color":"r"},
+			{"name":"d9", "color":"r"},
+			{"name":"d10", "color":"r"},
+			{"name":"d11", "color":"rf"},
+			{"name":"d12", "color":"rf"},
+			{"name":"d13", "color":"rf"}
+		]
+	}
+		
+}

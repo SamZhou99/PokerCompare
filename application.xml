@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/23.0">
+  <id>PokerRecognise</id>
+  <versionNumber>1.01</versionNumber>
+  <filename>PokerRecognise</filename>
+  <name>PokerRecognise</name>
+  <initialWindow>
+    <title>扑克识别</title>
+    <content>Main.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>false</maximizable>
+    <resizable>false</resizable>
+    <x>700</x>
+    <y>300</y>
+  </initialWindow>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+  <android>
+    <manifestAdditions><![CDATA[<manifest android:installLocation="auto" xmlns:android="http://schemas.android.com/apk/res/android" />]]></manifestAdditions>
+  </android>
+  <description>扑克牌识别</description>
+  <copyright>SamZhou</copyright>
+  <versionLabel>SamZhou</versionLabel>
+  <installFolder>PokerRecognise</installFolder>
+  <supportedProfiles>desktop</supportedProfiles>
+</application>

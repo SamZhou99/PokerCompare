@@ -1,0 +1,16 @@
+D:\www\csharp\TestSocket\TestSocket\obj\Debug\TestSocket.csprojResolveAssemblyReference.cache
+D:\www\csharp\TestSocket\TestSocket\obj\Debug\TestSocket.MainForm.resources
+D:\www\csharp\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.GenerateResource.Cache
+D:\www\csharp\TestSocket\TestSocket\bin\Debug\TestSocket.exe
+D:\www\csharp\TestSocket\TestSocket\bin\Debug\TestSocket.pdb
+D:\www\csharp\TestSocket\TestSocket\obj\Debug\TestSocket.exe
+D:\www\csharp\TestSocket\TestSocket\obj\Debug\TestSocket.pdb
+D:\www\csharp\TestSocket\TestSocket\bin\Debug\Newtonsoft.Json.dll
+D:\web\csharp\TestSocket\TestSocket\bin\Debug\TestSocket.exe
+D:\web\csharp\TestSocket\TestSocket\bin\Debug\TestSocket.pdb
+D:\web\csharp\TestSocket\TestSocket\bin\Debug\Newtonsoft.Json.dll
+D:\web\csharp\TestSocket\TestSocket\obj\Debug\TestSocket.csprojResolveAssemblyReference.cache
+D:\web\csharp\TestSocket\TestSocket\obj\Debug\TestSocket.MainForm.resources
+D:\web\csharp\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.GenerateResource.Cache
+D:\web\csharp\TestSocket\TestSocket\obj\Debug\TestSocket.exe
+D:\web\csharp\TestSocket\TestSocket\obj\Debug\TestSocket.pdb
